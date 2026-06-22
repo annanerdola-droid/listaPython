@@ -1,0 +1,3 @@
+def maior_palavra(texto):
+    for palavra in ".,!?;:":
+        texto = texto.replace()
